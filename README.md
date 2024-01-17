@@ -2,20 +2,6 @@
 
 <p> <h1 align="center">Criando um jogo da memória com Emojis</h1></p>
 
-<p align="center">
-    <img width="700" src="https://github.com/SuellenDiass/SuellenDiass/assets/102911341/83fe2f7c-594c-4f45-b019-26cba851a12b">
-</p>
-
-<p align="center">
-    <img width="700" src="https://github.com/SuellenDiass/SuellenDiass/assets/102911341/6854c285-543c-4ab5-bfc3-c02a20bac9fc">
-</p>
-
-
-<p align="center">Seja redirecionado à página do 
-<a href="https://javascript-jogo-da-memoria.suellensouza.repl.co" target="_blank">projeto</a></p>
-
-
-
 ---
 
 Neste projeto, foi criado um jogo de memória com o desafio de encontrar pares de cartas que possuam emojis correspondentes. A organização do projeto abrange diversos arquivos: um arquivo HTML, dois arquivos CSS (reset.css e main.css) e um arquivo JavaScript (engine.js). Através dessa estrutura, os aprendizados incluem a manipulação do Document Object Model (DOM), o uso do JavaScript para funcionalidade interativa, o estilo das páginas com CSS, e a construção da estrutura do site através do HTML. Abaixo segue a explicação do que foi feito em cada etapa do projeto.
