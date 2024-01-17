@@ -140,7 +140,7 @@ https://coolors.co/palettes/trending
 https://getemoji.com/assets/#activities
 
 
-Divirta-se jogando o **JSEmoji-memory-game** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Acesse o jogo em () e deixe uma ⭐️ se você gostou do projeto!
+Divirta-se jogando o **JSEmoji-memory-game** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Acesse o jogo em (https://github.com/Trugilho/dio-jsemoji-memory-game-main) e deixe uma ⭐️ se você gostou do projeto!
 
 
 Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/js-emoji-memory-game).
